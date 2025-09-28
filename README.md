@@ -15,6 +15,7 @@ Paradigmas estudiados: Programación orientada a objetos, estructuras de datos y
 💻 Habilidades: Lenguajes de programación: Java, C#, JavaScript
 Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS.
 Desarrollo web: ASP.NET MVC con Entity Framework y ADO.NET, Aplicaciones móviles: .NET MAUI
+Para uso de APIs: Postman y Quicktype.
 
 ✨ Intereses: Apasionada por el backend, desarrollo web y videojuegos. Comprometida con el aprendizaje continuo de nuevas tecnologías y técnicas de programación. Orientada a mantenerme actualizada en el campo de la informática.
 Actualmente aprendiendo: fundamentos de ingeniería de software y patrones de diseño.
@@ -33,6 +34,7 @@ Studied paradigms: Object-Oriented Programming, Data Structures, and Algorithms
 
 💻 Skills: Programming languages: Java, C#, JavaScript. Databases: MySQL, SQL Server
 Tools: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Web design: HTML, CSS. Web development: ASP.NET MVC with Entity Framework and ADO.NET, Mobile applications: .NET MAUI.
+For using the APIs: Postman y QuickType. 
 
 ✨ Interests: Passionate about backend, web development, and video games. Committed to continuous learning of new technologies and programming techniques, focused on staying up to date in the IT field.
 Currently learning: software engineering fundamentals and design patterns.
