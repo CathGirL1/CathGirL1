@@ -104,7 +104,7 @@ Currently learning: software engineering fundamentals and design patterns.
   
   🇬🇧 Web application for managing repair orders, clients, and technicians, developed with C# and ASP.NET.
 
-  - **[Sistema de Gestión de servicio técnico](https://github.com/CathGirL1/Emisora-Radio-FM)**
+  - **[Sistema de Gestión de emisora de radio FM](https://github.com/CathGirL1/Emisora-Radio-FM)**
     
   🇪🇸 Aplicación multiplataforma para emisora de radio FM, proyecto con .NET MAUI y C# para Android, iOS y Windows, que incluye reproducción en vivo, información de la emisora y mapa de geolocalización para patrocinadores e inicio de sesión.
   
