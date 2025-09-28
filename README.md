@@ -2,13 +2,43 @@
 
 # 👋 Hola, soy Catherine Sonderegger | Hi, I'm Catherine Sonderegger  
 
-🎓 Estudiante avanzada de la carrera **Analista Programador** en Maldonado, Uruguay.  
-💻 Apasionada por el **backend, desarrollo web y videojuegos**.  
-🚀 Siempre aprendiendo y buscando mi primera experiencia laboral en programación.  
+🇪🇸 Español
+📍 Ubicación: Maldonado, Punta del Este, Uruguay. 
 
-🎓 Advanced student of the Programming Analyst degree in Maldonado, Uruguay.
-💻 Passionate about backend, web development, and video games.
-🚀 Always learning and looking for my first work experience in programming.
+🌐 Idiomas: Español (nativo) e Inglés (A2, preparándome para el B1 - PET)
+
+🎓 Formación: Estudiante de Analista Programador en la Universidad tecnica del CEI desde 2023
+📅 Estimación de finalización: septiembre de 2026
+Bachillerato completo (recibida en 2023)
+Paradigmas estudiados: Programación orientada a objetos, estructuras de datos y algoritmos
+
+💻 Habilidades: Lenguajes de programación: Java, C#, JavaScript
+Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS.
+Desarrollo web: ASP.NET MVC con Entity Framework y ADO.NET, Aplicaciones móviles: .NET MAUI
+
+✨ Intereses: Apasionada por el backend, desarrollo web y videojuegos. Comprometida con el aprendizaje continuo de nuevas tecnologías y técnicas de programación. Orientada a mantenerme actualizada en el campo de la informática.
+Actualmente aprendiendo: fundamentos de ingeniería de software y patrones de diseño.
+
+🚀 Plan a futuro: cursar la carrera de Licenciatura en Software.
+
+🇬🇧 English
+📍 Location: Maldonado, Punta del Este, Uruguay
+
+🌐 Languages: Spanish (native) and English (A2, currently preparing for B1 - PET)
+
+🎓 Education: Student of Programming Analyst at CEI Technical University since 2023
+📅 Expected graduation: September 2026
+Completed High School (2023)
+Studied paradigms: Object-Oriented Programming, Data Structures, and Algorithms
+
+💻 Skills: Programming languages: Java, C#, JavaScript. Databases: MySQL, SQL Server
+Tools: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Web design: HTML, CSS. Web development: ASP.NET MVC with Entity Framework and ADO.NET, Mobile applications: .NET MAUI.
+
+✨ Interests: Passionate about backend, web development, and video games. Committed to continuous learning of new technologies and programming techniques, focused on staying up to date in the IT field.
+Currently learning: software engineering fundamentals and design patterns.
+
+🚀 Future plan: pursue a Bachelor’s Degree in Software Engineering.
+
 ---
 
 ## 🔹 Sobre mí / About me  
@@ -60,10 +90,24 @@
 
 ## 📂 Proyectos Destacados / Featured Projects  
 
-- **[Sistema de Gestión de Emisora](https://github.com/CathGirL1/Repositorio-Emisora)**  
-  🇪🇸 Aplicación web en **C# y ASP.NET MVC**: escuchar programas de radio, leer noticias, consultar clima y cotización. Incluye CRUD de patrocinadores y clientes, e inicio de sesión.  
-  🇬🇧 Web application in **C# and ASP.NET MVC**: listen to radio shows, read news, check weather and exchange rates. Includes CRUD for sponsors and clients, plus login system.  
+  - **[Sistema de Gestión de Emisora](https://github.com/CathGirL1/Repositorio-Emisora)**
+  
+  🇪🇸 Aplicación web en **C#, ASP.NET MVC y ADO.NET**: escuchar programas de radio, leer noticias, consultar clima y cotización. Incluye CRUD de patrocinadores y clientes, e inicio de sesión.
 
+  🇬🇧 Web application in **C#, ASP.NET MVC and ADO.NET**: listen to radio shows, read news, check weather and exchange rates. Includes CRUD for sponsors and clients, plus login system.
+
+  - **[Sistema de Gestión de servicio técnico](https://github.com/CathGirL1/Sistema-Servicio-Tecnico)**
+    
+  🇪🇸 Aplicación web para la administración de pedidos de reparaciones, clientes y tecnicos, desarrollada con C# y ASP.NET.
+  
+  🇬🇧 Web application for managing repair orders, clients, and technicians, developed with C# and ASP.NET.
+
+  - **[Sistema de Gestión de servicio técnico](https://github.com/CathGirL1/Emisora-Radio-FM)**
+    
+  🇪🇸 Aplicación multiplataforma para emisora de radio FM, proyecto con .NET MAUI y C# para Android, iOS y Windows, que incluye reproducción en vivo, información de la emisora y mapa de geolocalización para patrocinadores e inicio de sesión.
+  
+  🇬🇧 Cross-platform application for an FM radio station, developed with .NET MAUI and C# for Android, iOS, and Windows, including live streaming, station information, sponsor geolocation map, and user login.
+   
 ---
 
 ## 📊 Estadísticas / Stats  
@@ -72,7 +116,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=CathGirL1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CathGirL1&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CathGirL1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
