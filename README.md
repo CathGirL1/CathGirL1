@@ -12,7 +12,7 @@
 Bachillerato completo (recibida en 2023)
 Paradigmas estudiados: Programación orientada a objetos, estructuras de datos y algoritmos
 
-💻 Habilidades: Lenguajes de programación: Java, C#, JavaScript
+💻 Habilidades: Lenguajes de programación: Java, C#, C++, JavaScript
 Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS.
 Desarrollo web: ASP.NET MVC con Entity Framework y ADO.NET, Aplicaciones móviles: .NET MAUI
 Para uso de APIs: Postman y Quicktype.
@@ -32,7 +32,7 @@ Actualmente aprendiendo: fundamentos de ingeniería de software y patrones de di
 Completed High School (2023)
 Studied paradigms: Object-Oriented Programming, Data Structures, and Algorithms
 
-💻 Skills: Programming languages: Java, C#, JavaScript. Databases: MySQL, SQL Server
+💻 Skills: Programming languages: Java, C#, C++, JavaScript. Databases: MySQL, SQL Server
 Tools: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Web design: HTML, CSS. Web development: ASP.NET MVC with Entity Framework and ADO.NET, Mobile applications: .NET MAUI.
 For using the APIs: Postman y QuickType. 
 
