@@ -113,11 +113,12 @@ Currently learning: software engineering fundamentals and design patterns.
   🇬🇧 Cross-platform application for an FM radio station, developed with .NET MAUI and C# for Android, iOS, and Windows, including live streaming, station information, sponsor geolocation map, and user login.
 
   - **[Portafolio profesional](https://github.com/CathGirL1/PortfolioCatherine)**
+    
   🇪🇸 Portafolio web profesional, actualmente en desarrollo, creado con React, Node.js, JavaScript, HTML y CSS. Incluye secciones como Sobre mí, Tecnologías, Contacto y Proyectos completados. El servidor en Node.js gestiona el envío de mensajes desde el formulario   hacia mi correo electrónico. El diseño frontend está orientado a un estilo moderno y actualizado.
 
   🇬🇧 Professional web portfolio, currently under development, built with React, Node.js, JavaScript, HTML and CSS. It includes sections such as About Me, Technologies, Contact, and Completed Projects. The Node.js server handles message delivery from the contact     form to my email inbox. The frontend is designed with a modern and up-to-date style.
----
 
+---
 ## 📊 Estadísticas / Stats  
 
 <div align="center">
