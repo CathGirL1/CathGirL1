@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=CathGirL1&color=blue)
 
 # 👋 Hola, soy Catherine Sonderegger | Hi, I'm Catherine Sonderegger  
 
