@@ -12,8 +12,8 @@
 Bachillerato completo (recibida en 2023)
 Paradigmas estudiados: Programación orientada a objetos, estructuras de datos y algoritmos
 
-💻 Habilidades: Lenguajes de programación: Java, C#, C++, JavaScript
-Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS.
+💻 Habilidades: Lenguajes de programación: Java, C#, C++, JavaScript, Node.js
+Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS, React.
 Desarrollo web: ASP.NET MVC con Entity Framework y ADO.NET, Aplicaciones móviles: .NET MAUI
 Para uso de APIs: Postman y Quicktype.
 
@@ -32,8 +32,8 @@ Actualmente aprendiendo: fundamentos de ingeniería de software y patrones de di
 Completed High School (2023)
 Studied paradigms: Object-Oriented Programming, Data Structures, and Algorithms
 
-💻 Skills: Programming languages: Java, C#, C++, JavaScript. Databases: MySQL, SQL Server
-Tools: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Web design: HTML, CSS. Web development: ASP.NET MVC with Entity Framework and ADO.NET, Mobile applications: .NET MAUI.
+💻 Skills: Programming languages: Java, C#, C++, JavaScript, Node.js. Databases: MySQL, SQL Server
+Tools: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Web design: HTML, CSS, React. Web development: ASP.NET MVC with Entity Framework and ADO.NET, Mobile applications: .NET MAUI.
 For using the APIs: Postman y QuickType. 
 
 ✨ Interests: Passionate about backend, web development, and video games. Committed to continuous learning of new technologies and programming techniques, focused on staying up to date in the IT field.
@@ -68,6 +68,8 @@ Currently learning: software engineering fundamentals and design patterns.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 **Bases de datos / Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,7 +111,11 @@ Currently learning: software engineering fundamentals and design patterns.
   🇪🇸 Aplicación multiplataforma para emisora de radio FM, proyecto con .NET MAUI y C# para Android, iOS y Windows, que incluye reproducción en vivo, información de la emisora y mapa de geolocalización para patrocinadores e inicio de sesión.
   
   🇬🇧 Cross-platform application for an FM radio station, developed with .NET MAUI and C# for Android, iOS, and Windows, including live streaming, station information, sponsor geolocation map, and user login.
-   
+
+  - **[Portafolio profesional](https://github.com/CathGirL1/PortfolioCatherine)**
+  🇪🇸 Portafolio web profesional, actualmente en desarrollo, creado con React, Node.js, JavaScript, HTML y CSS. Incluye secciones como Sobre mí, Tecnologías, Contacto y Proyectos completados. El servidor en Node.js gestiona el envío de mensajes desde el formulario   hacia mi correo electrónico. El diseño frontend está orientado a un estilo moderno y actualizado.
+
+  🇬🇧 Professional web portfolio, currently under development, built with React, Node.js, JavaScript, HTML and CSS. It includes sections such as About Me, Technologies, Contact, and Completed Projects. The Node.js server handles message delivery from the contact     form to my email inbox. The frontend is designed with a modern and up-to-date style.
 ---
 
 ## 📊 Estadísticas / Stats  
