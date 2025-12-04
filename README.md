@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=CathGirL1&color=blue" alt="Profile views" />
 
 # 👋 Hola, soy Catherine Sonderegger | Hi, I'm Catherine Sonderegger  
 
@@ -122,9 +123,16 @@ Currently learning: software engineering fundamentals and design patterns.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CathGirL1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 
-<img src="https://streak-stats.demolab.com?user=CathGirL1&theme=dracula&hide_border=false" /><br/>
+
+<!-- Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=CathGirL1&theme=dracula&hide_border=false" 
+  alt="GitHub Streak" 
+  height="150"
+/>
+
+
 
 </div>
 
