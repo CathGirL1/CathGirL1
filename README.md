@@ -119,6 +119,22 @@ Currently learning: software engineering fundamentals and design patterns.
   
   🇬🇧 Cross-platform application for an FM radio station, developed with .NET MAUI and C# for Android, iOS, and Windows, including live streaming, station information, sponsor geolocation map, and user login.
 
+  - **[Tutti-Frutti](https://github.com/CathGirL1/Tutti-Frutti)**
+
+  🇪🇸 Juego web single-player de Tutti Frutti, desarrollado utilizando Java como lenguaje de programación y Spring Boot como framework principal.
+  La interfaz del juego fue implementada con Thymeleaf, mientras que Spring Data JPA se utilizó para la comunicación entre la aplicación y la base de datos.
+
+  El sistema permite gestionar el estado de las categorías (activas o inactivas), las cuales pueden personalizarse antes de iniciar la partida. Además, el usuario puede configurar distintos parámetros del juego, como la cantidad de rondas, el    tiempo de gracia y la duración total de la partida.
+
+  Durante el desarrollo se aplicaron principios de ingeniería de software y patrones de diseño, como la inyección de dependencias, con el objetivo de cumplir de forma adecuada con los requerimientos específicos del proyecto y lograr una          arquitectura clara, mantenible y escalable.
+
+  🇬🇧 Single-player web-based Tutti Frutti game, developed using Java as the programming language and Spring Boot as the main framework.
+  The game interface was implemented with Thymeleaf, while Spring Data JPA was used to handle communication between the application and the database.
+
+  The system manages the state of the game categories (active or inactive), allowing them to be customized before starting a match. Additionally, users can configure several gameplay settings, such as the number of rounds, grace time, and the    overall duration of the game.
+
+  Throughout the development process, software engineering principles and design patterns, such as dependency injection, were applied to properly address the project’s specific requirements and to achieve a clean, maintainable, and scalable      architecture.
+
   - **[Portafolio profesional](https://github.com/CathGirL1/PortfolioCatherine)**
     
   🇪🇸 Portafolio web profesional, actualmente en desarrollo, creado con React, Node.js, JavaScript, HTML y CSS. Incluye secciones como Sobre mí, Tecnologías, Contacto y Proyectos completados. El servidor en Node.js gestiona el envío de mensajes desde el formulario   hacia mi correo electrónico. El diseño frontend está orientado a un estilo moderno y actualizado.
