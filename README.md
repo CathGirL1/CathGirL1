@@ -81,6 +81,13 @@ Currently learning: software engineering fundamentals and design patterns.
 ![Razor](https://img.shields.io/badge/Razor-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-4CAF50?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-0A66C2?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET%20Web%20API](https://img.shields.io/badge/ASP.NET%20Web%20API-3C873A?style=for-the-badge&logo=.net&logoColor=white)
+
 
 **Herramientas / Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
