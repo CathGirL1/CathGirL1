@@ -119,24 +119,7 @@ Currently learning: software engineering fundamentals and design patterns.
   🇬🇧 Professional web portfolio, currently under development, built with React, Node.js, JavaScript, HTML and CSS. It includes sections such as About Me, Technologies, Contact, and Completed Projects. The Node.js server handles message delivery from the contact     form to my email inbox. The frontend is designed with a modern and up-to-date style.
 
 ---
-## 📊 Estadísticas / Stats  
 
-<div align="center">
-
-
-
-<!-- Streak -->
-<img 
-  src="https://streak-stats.demolab.com?user=CathGirL1&theme=dracula&hide_border=false" 
-  alt="GitHub Streak" 
-  height="150"
-/>
-
-
-
-</div>
-
----
 
 ## 🌐 Conectemos / Connect  
 
