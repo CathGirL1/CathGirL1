@@ -39,7 +39,7 @@ For using the APIs: Postman y QuickType.
 ✨ Interests: Passionate about backend, web development, and video games. Committed to continuous learning of new technologies and programming techniques, focused on staying up to date in the IT field.
 Currently learning: software engineering fundamentals and design patterns.
 
-🚀 Future plan: pursue a Bachelor’s Degree in Software Engineering.
+🚀 Future plan: pursue a Bachelor’s Degree in Computer Science.
 
 ---
 
