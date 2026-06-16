@@ -135,11 +135,12 @@ Currently learning: software engineering fundamentals and design patterns.
 
   Throughout the development process, software engineering principles and design patterns, such as dependency injection, were applied to properly address the project’s specific requirements and to achieve a clean, maintainable, and scalable      architecture.
 
-  - **[Portafolio profesional](https://github.com/CathGirL1/PortfolioCatherine)**
+  - **[Pagina web para artista](https://github.com/CathGirL1/PaginaWebFedericoHeredia.git)**
     
-  🇪🇸 Portafolio web profesional, actualmente en desarrollo, creado con React, Node.js, JavaScript, HTML y CSS. Incluye secciones como Sobre mí, Tecnologías, Contacto y Proyectos completados. El servidor en Node.js gestiona el envío de mensajes desde el formulario   hacia mi correo electrónico. El diseño frontend está orientado a un estilo moderno y actualizado.
+  🇪🇸 Sitio web profesional desarrollado para el artista Federico Heredia, creado con React, TypeScript, Vite, Tailwind CSS y librerías del ecosistema React. Funciona como una vitrina digital diseñada para fortalecer su presencia online, exhibir su trayectoria, obras destacadas —incluyendo trabajos relacionados con récords Guinness— y promover los servicios que ofrece, facilitando que potenciales clientes conozcan su trabajo y puedan contactarlo de forma directa. El contenido se gestiona mediante archivos JSON y el sitio se encuentra desplegado en Vercel con dominio personalizado gestionado a través de Namecheap. El diseño frontend está orientado a una experiencia moderna, visualmente atractiva y responsive.
 
-  🇬🇧 Professional web portfolio, currently under development, built with React, Node.js, JavaScript, HTML and CSS. It includes sections such as About Me, Technologies, Contact, and Completed Projects. The Node.js server handles message delivery from the contact     form to my email inbox. The frontend is designed with a modern and up-to-date style.
+🇬🇧 Professional website developed for artist Federico Heredia, built with React, TypeScript, Vite, Tailwind CSS, and React ecosystem libraries. It serves as a digital showcase designed to strengthen his online presence, highlight his career and featured works —including Guinness World Record-related projects— and promote his professional services, making it easier for potential clients to discover his work and contact him directly. Content is managed through JSON files, and the website is deployed on Vercel with a custom domain managed through Namecheap. The frontend is designed to provide a modern, visually engaging, and responsive user experience.
+
 
 ---
 
