@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=CathGirL1&color=blue" alt="Profile views" />
+
 
 # 👋 Hola, soy Catherine Sonderegger | Hi, I'm Catherine Sonderegger  
 
