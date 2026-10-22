@@ -5,7 +5,7 @@
 🇪🇸 Español
 📍 Ubicación: Maldonado, Punta del Este, Uruguay. 
 
-🌐 Idiomas: Español (nativo) e Inglés (A2, preparándome para el B1 - PET)
+🌐 Idiomas: Español (nativo) e Inglés (intermedio)
 
 🎓 Formación: Estudiante de Analista Programador en la Universidad tecnica del CEI desde 2023
 📅 Estimación de finalización: septiembre de 2026
@@ -25,7 +25,7 @@ Actualmente aprendiendo: fundamentos de ingeniería de software y patrones de di
 🇬🇧 English
 📍 Location: Maldonado, Punta del Este, Uruguay
 
-🌐 Languages: Spanish (native) and English (A2, currently preparing for B1 - PET)
+🌐 Languages: Spanish (native) and English (intermediate)
 
 🎓 Education: Student of Programming Analyst at CEI Technical University since 2023
 📅 Expected graduation: September 2026
