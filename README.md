@@ -1,196 +1,489 @@
 
+# 👋 Catherine Sonderegger
+### Programmer Analyst | Software Developer & Web Solutions
 
-# 👋 Hola, soy Catherine Sonderegger | Hi, I'm Catherine Sonderegger  
-
-Software Developer | Programmer Analyst
-
-🇪🇸 Español
-📍 Ubicación: Maldonado, Punta del Este, Uruguay. 
-
-👩‍💻 Sobre mí
-
-Soy desarrolladora de software, con formación en Analista Programador por la Universidad Técnica del CEI, en convenio con la Universidad CLAEH. Tengo la carrera completa y el proyecto final de tesis aprobado; actualmente, el título se encuentra en trámite.
-
-Me dedico al desarrollo de sistemas y sitios web a medida para clientes, participando en el análisis de requerimientos, diseño, desarrollo e implementación de soluciones.
-
-Me interesa especialmente el backend, la ingeniería de software y la aplicación de nuevas tecnologías para resolver problemas reales.
-
-🎓 Formación académica
-
-Formación
-
-Institución
-
-Período
-
-Estado
-
-Analista Programador
-
-Universidad Técnica del CEI – Universidad CLAEH
-
-2023–2026
-
-Título en trámite
-
-Bachillerato completo
-
-Liceo Padre Domingo
-
-2024
-
-Finalizado
-
-Licenciatura en Informática
-
-Formación académica proyectada
-
-Próxima etapa
-
-Planificada
-
-Idiomas: Español nativo · Inglés intermedio (B1)
-
-💻 Habilidades: Lenguajes de programación: Java (Spring Boot), C#, C++, JavaScript, Node.js, Spring Data JPA/Hibernate.                                                   
-Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS, React y Thymeleaf.
-Desarrollo web: ASP.NET MVC con Entity Framework y ADO.NET, Aplicaciones móviles: .NET MAUI
-Para uso de APIs: Postman y Quicktype.
-
-✨ Intereses: Apasionada por el backend, desarrollo web y videojuegos. Comprometida con el aprendizaje continuo de nuevas tecnologías y técnicas de programación. Orientada a mantenerme actualizada en el campo de la informática.
-Actualmente aprendiendo: fundamentos de ingeniería de software y patrones de diseño.
-
-🚀 Plan a futuro: cursar la carrera de Licenciatura en informatica.
-
-🇬🇧 English
-📍 Location: Maldonado, Punta del Este, Uruguay
-
-🌐 Languages: Spanish (native) and English (intermediate)
-
-🎓 Education: Student of Programming Analyst at CEI Technical University since 2023
-📅 Expected graduation: September 2026
-Completed High School (2023)
-Studied paradigms: Object-Oriented Programming, Data Structures, and Algorithms
-
-💻 Skills: Programming languages: Java (Spring boot), C#, C++, JavaScript, Node.js and Spring Data JPA/Hibernate. Databases: MySQL, SQL Server
-Tools: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Web design: HTML, CSS, React and Thymeleaf. Web development: ASP.NET MVC with Entity Framework and ADO.NET, Mobile applications: .NET MAUI.
-For using the APIs: Postman y QuickType. 
-
-✨ Interests: Passionate about backend, web development, and video games. Committed to continuous learning of new technologies and programming techniques, focused on staying up to date in the IT field.
-Currently learning: software engineering fundamentals and design patterns.
-
-🚀 Future plan: pursue a Bachelor’s Degree in Computer Science.
+<p align="center">
+  <a href="#espanol">
+    <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-CC2927?style=for-the-badge" alt="Español">
+  </a>
+  &nbsp;
+  <a href="#english">
+    <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-00599C?style=for-the-badge" alt="English">
+  </a>
+</p>
 
 ---
 
-## 🔹 Sobre mí / About me  
+<a id="espanol"></a>
 
-### 🇪🇸 Español  
-- 🌱 Actualmente sigo desarrollando proyectos académicos en **Java** y **C#**.  
-- 🎮 Me interesa especialmente el **desarrollo de videojuegos**, la programación orientada a objetos, desarrollo web y backend.  
-- 💡 Disfruto resolver problemas con creatividad y aprender nuevas tecnologías.  
-- 📚 Comprometida con el aprendizaje continuo y el crecimiento profesional.  
+## 🇪🇸 Español
 
-### 🇬🇧 English  
-- 🌱 I’m currently working on academic projects in **Java** and **C#**.  
-- 🎮 I’m especially interested in **game development**, object-oriented programming, web development, and backend.  
-- 💡 I enjoy solving problems creatively and learning new technologies.  
-- 📚 Committed to continuous learning and professional growth.  
+### 👩‍💻 Perfil profesional
+
+Analista Programador con formación completa y título en trámite. Desarrollo sistemas y sitios web a medida, participando en el relevamiento de requerimientos, análisis, diseño, programación, implementación y comunicación directa con clientes.
+
+Me interesa construir soluciones funcionales, mantenibles y adaptadas a las necesidades de cada proyecto, aplicando buenas prácticas de ingeniería de software y aprendiendo continuamente nuevas tecnologías.
+
+| 📍 Ubicación | 🎓 Formación | 🌐 Idiomas |
+|:---:|:---:|:---:|
+| Maldonado, Uruguay | Analista Programador — Universidad Técnica del CEI / Universidad CLAEH | Español nativo |
+| Punta del Este, Uruguay | 2023–2026 · Título en trámite | Inglés intermedio (B1) |
+
+### 🎓 Formación académica
+
+| Institución | Formación | Estado |
+|---|---|---|
+| Universidad Técnica del CEI, en convenio con Universidad CLAEH | Analista Programador · 2023–2026 | Carrera completa, proyecto finalizado. Título en trámite |
+| Liceo Padre Domingo | Bachillerato completo · 2024 | Finalizado |
+
+**Fundamentos y paradigmas:** Programación orientada a objetos (POO), estructuras de datos, algoritmos e ingeniería de software y patrones de diseño para apps y webs escalables.
+
+### 🛠️ Habilidades técnicas
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Área</th>
+      <th align="left">Tecnologías y herramientas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Lenguajes de programación</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+        <img src="https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Razor">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks y librerías</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI">
+        <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework">
+        <img src="https://img.shields.io/badge/ADO.NET-0A66C2?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET">
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA">
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Bases de datos</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>APIs e integración</strong></td>
+      <td>Desarrollo y consumo de APIs REST · Postman · QuickType · Integración entre aplicaciones y bases de datos</td>
+    </tr>
+    <tr>
+      <td><strong>Control de versiones</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Entornos y herramientas</strong></td>
+      <td>Visual Studio · Visual Studio Code · IntelliJ IDEA · Windows</td>
+    </tr>
+    <tr>
+      <td><strong>Sistemas y soporte</strong></td>
+      <td>Soporte técnico básico · Redes básicas · Entornos Windows</td>
+    </tr>
+    <tr>
+      <td><strong>Ingeniería de software</strong></td>
+      <td>POO · Estructuras de datos · Algoritmos · Patrones de diseño · Inyección de dependencias · Buenas prácticas de desarrollo</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🤖 Inteligencia artificial aplicada al desarrollo
+
+| Competencia | Aplicación |
+|---|---|
+| Ingeniería de prompts | Diseño de instrucciones y prompts según el objetivo y el problema que se busca resolver |
+| Contextualización de IA | Provisión de contexto, restricciones e instrucciones para orientar las respuestas del modelo |
+| Selección de modelos | Evaluación y selección de modelos de IA según las necesidades del proyecto |
+| IA local | Implementación y utilización de modelos locales mediante Ollama |
+| Integración de IA | Incorporación de asistencia inteligente en funcionalidades de aplicaciones |
+| Herramientas de IA | ChatGPT · Gemini · GitHub Copilot · Ollama · Gemma |
+
+**Aplicación práctica — SISCON-Q:** integración de inteligencia artificial local mediante Ollama, utilizando el modelo Gemma y proporcionando contexto e instrucciones orientadas a generar recomendaciones relacionadas con costos y diseño de proyectos de construcción.
+
+### 🤝 Habilidades blandas
+
+| Competencia | Aplicación en proyectos |
+|---|---|
+| Relevamiento de requerimientos | Identificar necesidades, objetivos y expectativas del cliente antes de desarrollar una solución |
+| Comunicación con clientes | Mantener una comunicación clara durante las etapas de análisis, desarrollo y entrega |
+| Orientación al cliente | Comprender el problema del cliente y priorizar soluciones que aporten valor |
+| Desarrollo de soluciones a medida | Adaptar funcionalidades, interfaces y procesos a los requerimientos particulares |
+| Gestión de observaciones y cambios | Recibir devoluciones, analizar ajustes y realizar modificaciones según las necesidades |
+| Resolución de problemas | Analizar situaciones, identificar causas y proponer alternativas |
+| Trabajo en equipo | Colaborar, coordinar tareas y compartir conocimientos |
+| Responsabilidad y compromiso | Cumplir objetivos, tareas y plazos acordados |
+| Organización | Planificar actividades y mantener un seguimiento ordenado del trabajo |
+| Adaptabilidad | Incorporar nuevas herramientas, tecnologías y formas de trabajo |
+| Proactividad | Proponer mejoras y buscar alternativas sin esperar instrucciones constantes |
+| Aprendizaje continuo | Actualizar conocimientos y fortalecer habilidades técnicas y profesionales |
+
+### 💼 Experiencia
+
+| Período | Rol | Organización | Responsabilidades |
+|---|---|---|---|
+| Jun. 2026 – Jul. 2026 | Desarrolladora Web Freelance | Federico Heredia | Relevamiento de requerimientos, desarrollo frontend, formularios de contacto, despliegue y comunicación directa con el cliente. |
+
+### 📂 Proyectos destacados
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Proyecto</th>
+      <th align="left">Descripción y tecnologías</th>
+      <th align="center">Repositorio / Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SISCON-Q</strong><br>Proyecto final de tesis</td>
+      <td>
+        Plataforma web a medida para empresas constructoras y de quinchos. Permite registrar proyectos, generar presupuestos estimados, gestionar solicitudes de cotización y mejorar la comunicación entre clientes y empresas. Incluye asistencia con IA para recomendaciones sobre costos y diseño.<br><br>
+        <strong>Stack:</strong> React · TypeScript · Node.js · Express · SQL Server · Ollama · Gemma.<br>
+        <strong>Participación:</strong> análisis de requerimientos, diseño funcional, modelado de datos, documentación técnica y desarrollo de funcionalidades.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/SistemaSISQON-Q">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sistema de Gestión de Emisora</strong></td>
+      <td>
+        Aplicación web que centraliza la administración de patrocinadores, clientes, noticias y contenido de una emisora, reduciendo tareas manuales.<br><br>
+        <strong>Stack:</strong> C# · ASP.NET MVC · ADO.NET · SQL Server.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/Repositorio-Emisora">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sistema de Servicio Técnico</strong></td>
+      <td>
+        Plataforma para administrar reparaciones, clientes y técnicos, organizando el flujo de trabajo y mejorando la trazabilidad de cada servicio.<br><br>
+        <strong>Stack:</strong> C# · ASP.NET MVC · SQL Server.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/Sistema-Servicio-Tecnico">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>App Radio FM</strong></td>
+      <td>
+        Aplicación multiplataforma para Android, iOS y Windows. Incluye reproducción en vivo, información de la emisora, autenticación y geolocalización de patrocinadores.<br><br>
+        <strong>Stack:</strong> C# · .NET MAUI · SQLite.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/Emisora-Radio-FM">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tutti Frutti Web</strong></td>
+      <td>
+        Juego web individual configurable, con categorías personalizables, rondas, tiempo de gracia y duración de partida. Aplicación de patrones de diseño e inyección de dependencias.<br><br>
+        <strong>Stack:</strong> Java · Spring Boot · Thymeleaf · Spring Data JPA · Hibernate · MySQL.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/Tutti-Frutti">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sitio web para artista</strong><br>Proyecto freelance</td>
+      <td>
+        Sitio profesional desarrollado para Federico Heredia. Vitrina digital para presentar su trayectoria, obras y servicios, con formularios de contacto y diseño responsive. Contenido administrado mediante archivos JSON. Desplegado en Vercel con dominio personalizado.<br><br>
+        <strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/PaginaWebFedericoHeredia">GitHub</a><br>
+        <a href="https://www.federicoheredia.com">Sitio web</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Prototipos para clientes</strong></td>
+      <td>
+        Prototipos web demostrativos para una automotora y una inmobiliaria. Incluyen sitios públicos y paneles de gestión para presentar posibles soluciones a clientes.<br><br>
+        <strong>Despliegue:</strong> Vercel.
+      </td>
+      <td align="center">
+        <a href="https://prototipo-automotora-autos.vercel.app/">Automotora</a><br>
+        <a href="https://inmobiliaria-norte.vercel.app/">NORTE Propiedades</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 🎯 Intereses y objetivos
+
+| Área | Interés |
+|---|---|
+| Backend | Desarrollo de servicios, lógica de negocio y APIs |
+| Ingeniería de software | Arquitectura, patrones de diseño y buenas prácticas |
+| Inteligencia artificial | Aplicación e integración de IA en soluciones de software |
+| Desarrollo a medida | Sistemas y aplicaciones adaptados a necesidades reales |
+| Videojuegos | Interés en programación y desarrollo de videojuegos |
+| Formación futura | Continuar mi formación mediante la Licenciatura en Informática |
+
+### 🌐 Conectemos
+
+<p align="center">
+  <a href="https://github.com/CathGirL1">
+    <img src="https://img.shields.io/badge/GitHub-CathGirL1-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/catherine-salom%C3%A9-sonderegger-gom%C3%A9z-20050b387/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Habilidades / Skills  
+<a id="english"></a>
 
-**Lenguajes / Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+## 🇬🇧 English
 
-**Bases de datos / Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 👩‍💻 Professional Profile
 
-**Frameworks y Librerías / Frameworks & Libraries**  
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![Razor](https://img.shields.io/badge/Razor-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-4CAF50?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-0A66C2?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET%20Web%20API](https://img.shields.io/badge/ASP.NET%20Web%20API-3C873A?style=for-the-badge&logo=.net&logoColor=white)
+Programming Analyst with completed academic coursework and final thesis project. Degree currently in process.
 
+I develop custom software systems and websites, participating in requirements gathering, analysis, design, programming, implementation, and direct client communication.
 
-**Herramientas / Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![QuickType](https://img.shields.io/badge/QuickType-009688?style=for-the-badge&logo=graphql&logoColor=white)
+I am interested in building functional, maintainable solutions tailored to project requirements, applying software engineering best practices and continuously learning new technologies.
 
----
+| 📍 Location | 🎓 Education | 🌐 Languages |
+|:---:|:---:|:---:|
+| Maldonado, Uruguay | Programming Analyst — CEI Technical University / Universidad CLAEH | Native Spanish |
+| Punta del Este, Uruguay | 2023–2026 · Degree in process | Intermediate English (B1) |
 
-## 📂 Proyectos Destacados / Featured Projects  
+### 🎓 Education
 
-  - **[Sistema de Gestión de Emisora](https://github.com/CathGirL1/Repositorio-Emisora)**
-  
-  🇪🇸 Aplicación web en **C#, ASP.NET MVC y ADO.NET**: escuchar programas de radio, leer noticias, consultar clima y cotización. Incluye CRUD de patrocinadores y clientes, e inicio de sesión.
+| Institution | Qualification | Status |
+|---|---|---|
+| CEI Technical University, in partnership with Universidad CLAEH | Programming Analyst · 2023–2026 | Coursework and final thesis completed. Degree in process |
+| Liceo Padre Domingo | High School Diploma · 2024 | Completed |
 
-  🇬🇧 Web application in **C#, ASP.NET MVC and ADO.NET**: listen to radio shows, read news, check weather and exchange rates. Includes CRUD for sponsors and clients, plus login system.
+**Core foundations:** Object-Oriented Programming (OOP), data structures, algorithms, and software engineering.
 
-  - **[Sistema de Gestión de servicio técnico](https://github.com/CathGirL1/Sistema-Servicio-Tecnico)**
-    
-  🇪🇸 Aplicación web para la administración de pedidos de reparaciones, clientes y tecnicos, desarrollada con C# y ASP.NET.
-  
-  🇬🇧 Web application for managing repair orders, clients, and technicians, developed with C# and ASP.NET.
+### 🛠️ Technical Skills
 
-  - **[Sistema de Gestión de emisora de radio FM](https://github.com/CathGirL1/Emisora-Radio-FM)**
-    
-  🇪🇸 Aplicación multiplataforma para emisora de radio FM, proyecto con .NET MAUI y C# para Android, iOS y Windows, que incluye reproducción en vivo, información de la emisora y mapa de geolocalización para patrocinadores e inicio de sesión.
-  
-  🇬🇧 Cross-platform application for an FM radio station, developed with .NET MAUI and C# for Android, iOS, and Windows, including live streaming, station information, sponsor geolocation map, and user login.
+<table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Technologies and tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Programming languages</strong></td>
+      <td>C# · Java · JavaScript · C++</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>HTML5 · CSS3 · React · TypeScript · Thymeleaf · Razor</td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>Node.js · Express · ASP.NET MVC · Spring Boot</td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks and libraries</strong></td>
+      <td>.NET MAUI · Entity Framework · ADO.NET · Spring Data JPA · Hibernate · Bootstrap</td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>SQL Server · MySQL · SQLite</td>
+    </tr>
+    <tr>
+      <td><strong>APIs and integration</strong></td>
+      <td>REST API development and consumption · Postman · QuickType · Application and database integration</td>
+    </tr>
+    <tr>
+      <td><strong>Version control</strong></td>
+      <td>Git · GitHub</td>
+    </tr>
+    <tr>
+      <td><strong>Development tools</strong></td>
+      <td>Visual Studio · Visual Studio Code · IntelliJ IDEA · Windows</td>
+    </tr>
+    <tr>
+      <td><strong>Systems and support</strong></td>
+      <td>Basic technical support · Basic networking · Windows environments</td>
+    </tr>
+    <tr>
+      <td><strong>Software engineering</strong></td>
+      <td>OOP · Data structures · Algorithms · Design patterns · Dependency injection · Software development best practices</td>
+    </tr>
+  </tbody>
+</table>
 
-  - **[Tutti-Frutti](https://github.com/CathGirL1/Tutti-Frutti)**
+### 🤖 Artificial Intelligence in Software Development
 
-  🇪🇸 Juego web single-player de Tutti Frutti, desarrollado utilizando Java como lenguaje de programación y Spring Boot como framework principal.
-  La interfaz del juego fue implementada con Thymeleaf, mientras que Spring Data JPA se utilizó para la comunicación entre la aplicación y la base de datos.
+| Competency | Application |
+|---|---|
+| Prompt engineering | Designing prompts and instructions according to specific goals and problems |
+| AI contextualization | Providing context, constraints, and instructions to guide model responses |
+| Model selection | Evaluating and selecting AI models according to project requirements |
+| Local AI | Implementing and using local AI models through Ollama |
+| AI integration | Incorporating intelligent assistance into application features |
+| AI tools | ChatGPT · Gemini · GitHub Copilot · Ollama · Gemma |
 
-  El sistema permite gestionar el estado de las categorías (activas o inactivas), las cuales pueden personalizarse antes de iniciar la partida. Además, el usuario puede configurar distintos parámetros del juego, como la cantidad de rondas, el    tiempo de gracia y la duración total de la partida.
+**Practical application — SISCON-Q:** integrated local artificial intelligence through Ollama, using the Gemma model and providing context and instructions to generate recommendations related to construction costs and design.
 
-  Durante el desarrollo se aplicaron principios de ingeniería de software y patrones de diseño, como la inyección de dependencias, con el objetivo de cumplir de forma adecuada con los requerimientos específicos del proyecto y lograr una          arquitectura clara, mantenible y escalable.
+### 🤝 Soft Skills
 
-  🇬🇧 Single-player web-based Tutti Frutti game, developed using Java as the programming language and Spring Boot as the main framework.
-  The game interface was implemented with Thymeleaf, while Spring Data JPA was used to handle communication between the application and the database.
+| Competency | Practical application |
+|---|---|
+| Requirements gathering | Identifying client needs, objectives, and expectations before developing a solution |
+| Client communication | Maintaining clear communication throughout analysis, development, and delivery |
+| Customer orientation | Understanding client problems and prioritizing valuable solutions |
+| Custom solution development | Adapting features, interfaces, and processes to specific requirements |
+| Feedback and change management | Receiving feedback, evaluating adjustments, and implementing requested changes |
+| Problem-solving | Analyzing situations, identifying causes, and proposing alternatives |
+| Teamwork | Collaborating, coordinating tasks, and sharing knowledge |
+| Responsibility and commitment | Meeting agreed objectives, tasks, and deadlines |
+| Organization | Planning activities and maintaining structured workflows |
+| Adaptability | Adopting new tools, technologies, and working methods |
+| Proactivity | Suggesting improvements and exploring alternatives independently |
+| Continuous learning | Updating knowledge and strengthening technical and professional skills |
 
-  The system manages the state of the game categories (active or inactive), allowing them to be customized before starting a match. Additionally, users can configure several gameplay settings, such as the number of rounds, grace time, and the    overall duration of the game.
+### 💼 Experience
 
-  Throughout the development process, software engineering principles and design patterns, such as dependency injection, were applied to properly address the project’s specific requirements and to achieve a clean, maintainable, and scalable      architecture.
+| Period | Role | Organization | Responsibilities |
+|---|---|---|---|
+| Jun. 2026 – Jul. 2026 | Freelance Web Developer | Federico Heredia | Requirements gathering, frontend development, contact forms, deployment, and direct client communication. |
+| Jan. 2026 – Feb. 2026 | Assistant Warehouse Manager | Tienda Saura · Punta Shopping | Stock management, warehouse organization, product reception and distribution, and coordination with the sales team. |
+| Jun. 2024 – Jun. 2025 | Construction Worker | Private construction project | Construction tasks, following instructions, responsibility, and teamwork. |
 
-  - **[Pagina web para artista](https://github.com/CathGirL1/PaginaWebFedericoHeredia.git)**
-    
-  🇪🇸 Sitio web profesional desarrollado para el artista Federico Heredia, creado con React, TypeScript, Vite, Tailwind CSS y librerías del ecosistema React. Funciona como una vitrina digital diseñada para fortalecer su presencia online, exhibir su trayectoria, obras destacadas —incluyendo trabajos relacionados con récords Guinness— y promover los servicios que ofrece, facilitando que potenciales clientes conozcan su trabajo y puedan contactarlo de forma directa. El contenido se gestiona mediante archivos JSON y el sitio se encuentra desplegado en Vercel con dominio personalizado gestionado a través de Namecheap. El diseño frontend está orientado a una experiencia moderna, visualmente atractiva y responsive. Sitio web en producción: https://www.federicoheredia.com
+### 📂 Featured Projects
 
-🇬🇧 Professional website developed for artist Federico Heredia, built with React, TypeScript, Vite, Tailwind CSS, and React ecosystem libraries. It serves as a digital showcase designed to strengthen his online presence, highlight his career and featured works —including Guinness World Record-related projects— and promote his professional services, making it easier for potential clients to discover his work and contact him directly. Content is managed through JSON files, and the website is deployed on Vercel with a custom domain managed through Namecheap. The frontend is designed to provide a modern, visually engaging, and responsive user experience. Live website: https://www.federicoheredia.com
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description and technologies</th>
+      <th align="center">Repository / Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>SISCON-Q</strong><br>Final thesis project</td>
+      <td>
+        Custom web platform for construction and barbecue-area companies. Supports project registration, estimated budgets, quotation requests, and communication between customers and businesses. Includes AI-assisted recommendations for costs and design.<br><br>
+        <strong>Stack:</strong> React · TypeScript · Node.js · Express · SQL Server · Ollama · Gemma.
+      </td>
+      <td align="center"><a href="https://github.com/CathGirL1/SistemaSISQON-Q">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>Radio Station Management System</strong></td>
+      <td>
+        Web application centralizing the management of sponsors, clients, news, and radio station content.<br><br>
+        <strong>Stack:</strong> C# · ASP.NET MVC · ADO.NET · SQL Server.
+      </td>
+      <td align="center"><a href="https://github.com/CathGirL1/Repositorio-Emisora">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>Technical Service Management System</strong></td>
+      <td>
+        Platform for managing repair orders, clients, and technicians, improving workflow organization and service tracking.<br><br>
+        <strong>Stack:</strong> C# · ASP.NET MVC · SQL Server.
+      </td>
+      <td align="center"><a href="https://github.com/CathGirL1/Sistema-Servicio-Tecnico">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>FM Radio App</strong></td>
+      <td>
+        Cross-platform application for Android, iOS, and Windows. Includes live streaming, station information, authentication, and sponsor geolocation.<br><br>
+        <strong>Stack:</strong> C# · .NET MAUI · SQLite.
+      </td>
+      <td align="center"><a href="https://github.com/CathGirL1/Emisora-Radio-FM">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>Tutti Frutti Web</strong></td>
+      <td>
+        Configurable single-player web game with customizable categories, rounds, grace time, and game duration. Applies design patterns and dependency injection.<br><br>
+        <strong>Stack:</strong> Java · Spring Boot · Thymeleaf · Spring Data JPA · Hibernate · MySQL.
+      </td>
+      <td align="center"><a href="https://github.com/CathGirL1/Tutti-Frutti">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><strong>Artist Website</strong><br>Freelance project</td>
+      <td>
+        Professional website developed for Federico Heredia. Digital showcase for his career, featured works, and services, including contact forms and responsive design. Content managed through JSON files. Deployed on Vercel with a custom domain.<br><br>
+        <strong>Stack:</strong> React · TypeScript · Vite · Tailwind CSS.
+      </td>
+      <td align="center">
+        <a href="https://github.com/CathGirL1/PaginaWebFedericoHeredia">GitHub</a><br>
+        <a href="https://www.federicoheredia.com">Live website</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Client Demonstration Prototypes</strong></td>
+      <td>
+        Web prototypes for an automotive dealership and a real estate agency. Include public-facing websites and management panels to demonstrate potential software solutions.<br><br>
+        <strong>Deployment:</strong> Vercel.
+      </td>
+      <td align="center">
+        <a href="https://prototipo-automotora-autos.vercel.app/">Automotive demo</a><br>
+        <a href="https://inmobiliaria-norte.vercel.app/">NORTE Propiedades</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+### 🎯 Interests and Goals
 
----
+| Area | Interests |
+|---|---|
+| Backend development | Services, business logic, and APIs |
+| Software engineering | Architecture, design patterns, and best practices |
+| Artificial intelligence | Applying and integrating AI into software solutions |
+| Custom software | Systems and applications tailored to real-world needs |
+| Game development | Programming and video game development |
+| Future education | Pursuing a Bachelor's Degree in Computer Science / Informatics |
 
+### 🌐 Let's Connect
 
-## 🌐 Conectemos / Connect  
+<p align="center">
+  <a href="https://github.com/CathGirL1">
+    <img src="https://img.shields.io/badge/GitHub-CathGirL1-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/catherine-salom%C3%A9-sonderegger-gom%C3%A9z-20050b387/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-salom%C3%A9-sonderegger-gom%C3%A9z-20050b387/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catherinesonderegger446@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CathGirL1)  
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/598949650)  
-
----
-⭐️ Basado en ideas de / Based on ideas from [Birunthaban](https://github.com/Birunthaban) y [Mahdiiye](https://github.com/Mahdiiye)  
 
