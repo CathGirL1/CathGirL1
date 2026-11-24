@@ -2,15 +2,54 @@
 
 # 👋 Hola, soy Catherine Sonderegger | Hi, I'm Catherine Sonderegger  
 
+Software Developer | Programmer Analyst
+
 🇪🇸 Español
 📍 Ubicación: Maldonado, Punta del Este, Uruguay. 
 
-🌐 Idiomas: Español (nativo) e Inglés (intermedio)
+👩‍💻 Sobre mí
 
-🎓 Formación: Estudiante de Analista Programador en la Universidad tecnica del CEI desde 2023
-📅 Estimación de finalización: septiembre de 2026
-Bachillerato completo (recibida en 2023)
-Paradigmas estudiados: Programación orientada a objetos, estructuras de datos y algoritmos
+Soy desarrolladora de software, con formación en Analista Programador por la Universidad Técnica del CEI, en convenio con la Universidad CLAEH. Tengo la carrera completa y el proyecto final de tesis aprobado; actualmente, el título se encuentra en trámite.
+
+Me dedico al desarrollo de sistemas y sitios web a medida para clientes, participando en el análisis de requerimientos, diseño, desarrollo e implementación de soluciones.
+
+Me interesa especialmente el backend, la ingeniería de software y la aplicación de nuevas tecnologías para resolver problemas reales.
+
+🎓 Formación académica
+
+Formación
+
+Institución
+
+Período
+
+Estado
+
+Analista Programador
+
+Universidad Técnica del CEI – Universidad CLAEH
+
+2023–2026
+
+Título en trámite
+
+Bachillerato completo
+
+Liceo Padre Domingo
+
+2024
+
+Finalizado
+
+Licenciatura en Informática
+
+Formación académica proyectada
+
+Próxima etapa
+
+Planificada
+
+Idiomas: Español nativo · Inglés intermedio (B1)
 
 💻 Habilidades: Lenguajes de programación: Java (Spring Boot), C#, C++, JavaScript, Node.js, Spring Data JPA/Hibernate.                                                   
 Bases de datos: MySQL, SQL Server Herramientas: Git, GitHub, Visual Studio Community, Visual Studio Code, IntelliJ, Diseño web: HTML, CSS, React y Thymeleaf.
