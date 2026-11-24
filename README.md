@@ -384,8 +384,6 @@ I am interested in building functional, maintainable solutions tailored to proje
 | Period | Role | Organization | Responsibilities |
 |---|---|---|---|
 | Jun. 2026 – Jul. 2026 | Freelance Web Developer | Federico Heredia | Requirements gathering, frontend development, contact forms, deployment, and direct client communication. |
-| Jan. 2026 – Feb. 2026 | Assistant Warehouse Manager | Tienda Saura · Punta Shopping | Stock management, warehouse organization, product reception and distribution, and coordination with the sales team. |
-| Jun. 2024 – Jun. 2025 | Construction Worker | Private construction project | Construction tasks, following instructions, responsibility, and teamwork. |
 
 ### 📂 Featured Projects
 
